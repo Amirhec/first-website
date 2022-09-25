@@ -88,9 +88,10 @@ img{
     font-size: 36px;
     font-weight: 900;
     text-align: center;
-    margin-bottom: 10px;
+    margin-bottom: 40px;
     color: gray;
     margin-top: 20px;
+    
 }
 
 .container{
@@ -144,9 +145,46 @@ img{
 }
 
 /* 4th section css*/
+.sign-up-container{
+    background-color: white;
+    
+}
+.inside-sign-up{
+    background-color: #3882F6;
+    padding: 40px;
+    margin: 30px 200px;
+    border-radius: 20px;
+}
 
+.info-signup{
+    display: flex;
+    justify-content: center;
+    gap: 60px;
+    color: white;
+}
 
+.button-2{
+    background-color:#3882F6 ;
+    color: white;
+    padding: 4px 12px;
+    margin: 4px 2px ;
+    border-radius: 10px;
+    border-color: white;
+}
+/* footer css*/
+.footer{
+    background-color: #1F2937;
+    display: flex;
+    justify-content: center;
+    padding: 40px;
+    
+}
 
-
-
+.footer-text{
+    align-items: center;
+    color: white;
+    font-style: italic;
+    
+    
+}
 
