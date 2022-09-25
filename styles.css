@@ -1,0 +1,84 @@
+*, html{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.header{
+    background-color: #1F2937;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 20px;
+
+}
+
+.header h3{
+    font-size: 24px;
+}
+
+.links{
+    display: flex;
+    justify-content: space-between;
+    gap: 150px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    border: 2px dotted gray;
+    
+}
+
+
+
+.content-header{ background-color: #1F2937;
+                display: flex;
+                justify-content: space-between;
+                padding-top: 60px;
+                padding-bottom: 30px;
+                color: white;
+                gap: 500px;
+
+}
+
+.mid-header{
+    width: 400px;
+}
+
+img{
+    width: 400px;
+    height: 200px;
+    display: block;
+    
+}
+
+.button{
+    background-color:#3882F6 ;
+    color: white;
+    padding: 4px 12px;
+    margin: 4px 2px ;
+    border-radius: 10px;
+    border-color: white;
+}
+
+.header,
+.content-header{
+    padding-left: 150px;
+    padding-right: 100px;
+
+}
+
+/* this is the mid section*/
+
+
+
+
+
